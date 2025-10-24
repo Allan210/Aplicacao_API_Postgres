@@ -40,7 +40,6 @@ Antes de iniciar, garanta que você tenha instalado:
 - [VSCode](https://code.visualstudio.com/)  
 - [Git Bash](https://gitforwindows.org/)  
 
-<img width="1916" height="1018" alt="image" src="https://github.com/user-attachments/assets/149ff003-802f-4ba5-8020-f6de3d902db4" />
 
 ---
 
@@ -103,8 +102,6 @@ Durante a execução, o terminal solicitará que você informe os dados.
 Após confirmar, acesse o pgAdmin e verifique se as informações foram gravadas corretamente na tabela do banco.
 
 
-📸 Exemplo de Execução
-<img width="1240" height="677" alt="image" src="https://github.com/user-attachments/assets/74b13711-87cc-4b2f-9077-c5a6c5478079" />
 
 ✅ Conclusão
 Este projeto é um exemplo prático de integração entre TypeScript e PostgreSQL, ideal para quem está começando a desenvolver back-end e deseja entender o fluxo básico de:
